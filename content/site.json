@@ -1,0 +1,23 @@
+{
+  "businessName": "Business e2e-site-1768113253",
+  "industry": "business-e2e-site-1768113253",
+  "tagline": "Professional business-e2e-site-1768113253 services you can trust",
+  "phone": "",
+  "email": "",
+  "address": "",
+  "services": [
+    "Consultation Services",
+    "Implementation Support",
+    "Compliance & Review",
+    "Training & Development"
+  ],
+  "socialMedia": {
+    "linkedin": "",
+    "facebook": "",
+    "twitter": ""
+  },
+  "theme": {
+    "primaryColor": "#1e3a8a",
+    "accentColor": "#d4af37"
+  }
+}
